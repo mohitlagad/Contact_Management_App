@@ -1,0 +1,21 @@
+h1 {text-align: center;}
+h1 {background-color: cornflowerblue; }
+
+div {
+    text-align: center;
+    width: 900px;
+    border: 5px solid rgb(12, 12, 12);
+    padding: 4px;
+    margin: 5px;
+    margin-left: 250px;
+  }
+
+  div {    
+    display: inline-block;
+  }
+
+  h2 {text-align: center;}
+
+  h2 {align-self: center;}
+
+  img {align-self: left;}

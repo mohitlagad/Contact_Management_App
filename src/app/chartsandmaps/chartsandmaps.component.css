@@ -1,0 +1,20 @@
+h1 {background-color: cornflowerblue;}
+h1 {text-align: center;}
+
+div {
+    text-align: top;
+    width: 1000px;
+    border: 2px solid rgb(12, 12, 12);
+    padding: 4px;
+    margin: 5px;
+
+    width: 1000px;
+    vertical-align: top;
+    display: inline-block;
+    margin: 0;
+    padding: 100px;
+    margin-right: 2000px;
+    margin-left: 200px;
+  }
+
+h2 {text-align: center;}

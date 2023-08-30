@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+
+button {text-align: left;}
+
+
+
+
+div {    
+    width: 150px;
+    float: left;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    margin-right: 10px;
+    
+  }
+
+  div {border-color: orangered;}
+  
+
+/*
+div {
+    width: 1px;
+    vertical-align: bottom;
+    display: inline-block;
+    margin: 0;
+    padding: 100px;
+    margin-right: 0;
+    margin-left: 0;}
+    */
